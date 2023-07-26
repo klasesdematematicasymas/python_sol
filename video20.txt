@@ -1,0 +1,10 @@
+Si has llegado a este video entonces estás a punto de acabar el curso introductorio
+de programación de Python. Ahora tienes todas las herramientas necesarias para
+desarrollar soluciones automatizadas con Python
+Recuerda que la única forma de aprender a programar es enfrentando problemas de codificación
+Por eso puedes usar páginas como https://www.hackerrank.com para solucionar problemas
+Además es importante como programador adquirir conocimientos en otros temas que sean 
+de tu interés, ya que la programación soluciona problemas en otros contextos
+y por más que se tengan las bases de programación nada se puede hacer si no se 
+conocen temas específicos en áreas que se puedan aplicar.
+Recuerda Suscribirte y apoyar el canal. Saludos. 
